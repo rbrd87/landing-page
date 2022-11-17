@@ -1,0 +1,56 @@
+body {
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#nav {
+    background-color: darkslategray;
+    color: white;
+    padding: 5px;
+    border-bottom: 5px solid goldenrod;
+}
+
+ul {
+    text-align: right;
+    margin-right: 10px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+#footer-text {
+    padding: 0 0 18px 0;
+}
+
+#footer {
+    background-color: darkslategray;
+    color: white;
+    border-top: 5px solid goldenrod;
+}
+
+#footer p {
+    font-size: 14px;
+}
+
+#form {
+    padding: 20px;
+}
+
+input[type="button"] {
+    margin: 30px 10px 10px 10px;
+    width: 150px;
+    height: 35px;
+    background-color: darkslategray;
+    color: white;
+    border: none;
+    border-radius: 3px;
+  }
+
+  .input-box {
+    width: 200px;
+    height: 25px;
+    margin: 5px;
+  }
